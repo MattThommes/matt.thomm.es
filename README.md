@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+My name is Matt Thommes. I am a husband, father, and software application developer from Roselle, IL. I work both in downtown Chicago as well as from home occasionally.
 
-You can use the [editor on GitHub](https://github.com/MattThommes/matt.thomm.es/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I love writing code and scripts that automate or simplify my life. I use API’s to create custom interfaces to services that provide a value to me; that is, save me time, effort, or allow me to explore a new approach to a common problem or redundancy.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I believe in an automated, social, and integrated web - but I also cherish the intrinsic nature of humans which can’t be controlled nor fully revealed via bots and digital bits. True relationships and meaning come from our purist, selfless forms.
 
-### Markdown
+Some relevant spots:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [Family](http://thomm.es/)
+* [My Days](http://www.activecampaign.com)
+* [Words](http://blog.matt.thomm.es/)
+* [Code](https://github.com/MattThommes)
+* [Short updates](http://twitter.com/MattThommes)
+* [Videos](https://www.youtube.com/channel/UCzY4wfNav4KJTwmY25ItkLA)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MattThommes/matt.thomm.es/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email, text, or call me anytime: matt@thomm.es / (847) 230-4701
