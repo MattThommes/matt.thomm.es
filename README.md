@@ -1,4 +1,4 @@
-![me.png](Matt Thommes)
+![Matt Thommes](me.png)
 
 My name is Matt Thommes. I am a husband, father, and software application developer from Roselle, IL. I work both in downtown Chicago as well as from home occasionally.
 
