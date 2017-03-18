@@ -1,3 +1,5 @@
+![me.png](Matt Thommes)
+
 My name is Matt Thommes. I am a husband, father, and software application developer from Roselle, IL. I work both in downtown Chicago as well as from home occasionally.
 
 I love writing code and scripts that automate or simplify my life. I use API’s to create custom interfaces to services that provide a value to me; that is, save me time, effort, or allow me to explore a new approach to a common problem or redundancy.
